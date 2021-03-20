@@ -4,6 +4,7 @@ html {
   line-height: 1.3;
   font-size: 1.125rem;
   color: #555;
+  padding: 1rem;
 }
 
 *, *::before, *::after {
@@ -24,10 +25,11 @@ article header {
 
 article h1 {
 font-size: 1.5rem;
+color: #222;
 }
 
 article header p {
-
+font-style: italic;
 }
 
 article p {
@@ -39,7 +41,6 @@ article ol {
 }
 
 blockquote {
-  color: #999;
 
 }
 
