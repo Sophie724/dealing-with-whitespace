@@ -15,12 +15,13 @@ html {
 body {
   font-family: "Crimson Text", sans-serif;
   margin: 0;
+  font-size: .91rem;
 }
 
 article {
   font-family: "Crimson Text", sans-serif;
   border-bottom: 1px solid #999;
-  margin: 0 0 1em;
+  margin: 0 0 1.5em;
 }
 
 article header {
@@ -52,7 +53,8 @@ article ol {
 
 blockquote {
   font-weight: lighter;
-  font-size: 1.125rem;
+  font-size: 1rem;
+
 }
 
 .quote {
