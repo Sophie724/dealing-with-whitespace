@@ -1,8 +1,45 @@
 html {
   box-sizing: border-box;
   font-family: "Crimson Text", sans-serif;
+  line-height: 1.3;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+body {
+
+}
+
+article {
+
+}
+
+article header {
+
+}
+
+article h1 {
+
+}
+
+article header p {
+
+}
+
+article p {
+
+}
+
+article ol {
+
+}
+
+blockquote {
+
+}
+
+.quote {
+
 }
