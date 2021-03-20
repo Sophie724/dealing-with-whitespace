@@ -25,14 +25,14 @@ article {
 }
 
 article header {
-  font-size: .85em;
+  font-size: .95em;
   text-align: left;
-  margin: .25em;
+  margin: .21em;
   border-bottom: 1px solid #999;
 }
 
 article h1 {
-  font-size: 1rem;
+  font-size: 1.5rem;
   color: #222;
   font-weight: normal;
   margin-bottom: 0;
