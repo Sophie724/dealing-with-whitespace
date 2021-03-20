@@ -52,9 +52,8 @@ article ol {
 }
 
 blockquote {
-  font-weight: lighter;
+  font-weight: inherit;
   font-size: 1rem;
-
 }
 
 .quote {
