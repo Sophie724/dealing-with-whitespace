@@ -7,7 +7,7 @@ html {
   margin-bottom: 1.3em;
   margin-top: 0;
   font-style: normal;
-  color:#222;
+  color: #222;
 }
 
 *, *::before, *::after {
@@ -41,7 +41,6 @@ article header {
   padding-bottom: .75rem;
 }
 
-
 article header p {
   font-family: "Crimson Text", sans-serif;
   font-style: italic;
@@ -50,10 +49,10 @@ article header p {
 }
 
 article p {
-border: 1rem;
-margin-bottom: 1rem;
-font-size: 1em;
-font-weight: lighter;
+  border: 1rem;
+  margin-bottom: 1rem;
+  font-size: 1em;
+  font-weight: lighter;
 }
 
 article ol {
